@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nikolay Nikolov
-- 👀 I’m interested in JavaScript Web Development
-- 🌱 I’m currently learning Software Engineering at SoftUni
+- 👋 Hi, I’m Nikolay Nikolov.
+- 👀 I’m interested in Front-end Development.
+- 🌱 I’m currently learning Software Engineering with JavaScript at SoftUni.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me justnikoloff@gamil.com
+- 📫 How to reach me justnikoloff@gmail.com
 
 <!---
 NyPhZ/NyPhZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
